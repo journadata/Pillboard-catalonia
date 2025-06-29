@@ -1,0 +1,66 @@
+region,pill,code,prescriptions_invoiced
+ALT PIRINEU i ARAN,Derivados de la benzodiazepina,71,836773
+ALT PIRINEU i ARAN,Inhibidores de la bomba de protones,71,684493
+ALT PIRINEU i ARAN,Inhibidores de la HMG CoA reductasa,71,577472
+ALT PIRINEU i ARAN,Anilidas,71,498687
+ALT PIRINEU i ARAN,"Inhibidores de la agregacion plaquetaria, heparina excl.",71,418158
+ALTRES,Derivados del acido propionico,0,18271
+ALTRES,Anilidas,0,13757
+ALTRES,AGONISTES OPIACIS,0,9199
+ALTRES,Derivados de la benzodiazepina,0,8642
+ALTRES,Sense especificar,0,7854
+BARCELONA,Derivados de la benzodiazepina,78,46213949
+BARCELONA,Inhibidores de la HMG CoA reductasa,78,43316963
+BARCELONA,Inhibidores de la bomba de protones,78,42921708
+BARCELONA,Anilidas,78,41978395
+BARCELONA,Sense especificar,78,32162332
+BARCELONA CIUTAT,Anilidas,79,2500289
+BARCELONA CIUTAT,Inhibidores de la HMG CoA reductasa,79,2389596
+BARCELONA CIUTAT,Derivados de la benzodiazepina,79,2253330
+BARCELONA CIUTAT,Inhibidores de la bomba de protones,79,2028236
+BARCELONA CIUTAT,Sense especificar,79,1888111
+BARCELONA METROPOLITANA NORD,Anilidas,76,3575831
+BARCELONA METROPOLITANA NORD,Derivados de la benzodiazepina,76,3103493
+BARCELONA METROPOLITANA NORD,Inhibidores de la HMG CoA reductasa,76,3081550
+BARCELONA METROPOLITANA NORD,Inhibidores de la bomba de protones,76,2795656
+BARCELONA METROPOLITANA NORD,Sense especificar,76,2199966
+BARCELONA METROPOLITANA SUD,Anilidas,75,1986139
+BARCELONA METROPOLITANA SUD,Derivados de la benzodiazepina,75,1629354
+BARCELONA METROPOLITANA SUD,Inhibidores de la HMG CoA reductasa,75,1595496
+BARCELONA METROPOLITANA SUD,Inhibidores de la bomba de protones,75,1471363
+BARCELONA METROPOLITANA SUD,Sense especificar,75,1140847
+CAMP DE TARRAGONA,Derivados de la benzodiazepina,62,6735964
+CAMP DE TARRAGONA,Inhibidores de la HMG CoA reductasa,62,5637829
+CAMP DE TARRAGONA,Inhibidores de la bomba de protones,62,5411234
+CAMP DE TARRAGONA,Anilidas,62,5120731
+CAMP DE TARRAGONA,Sense especificar,62,4077494
+CATALUNYA CENTRAL,Derivados de la benzodiazepina,67,7158885
+CATALUNYA CENTRAL,Inhibidores de la bomba de protones,67,5474290
+CATALUNYA CENTRAL,Anilidas,67,5346171
+CATALUNYA CENTRAL,Inhibidores de la HMG CoA reductasa,67,4517808
+CATALUNYA CENTRAL,Sense especificar,67,3071552
+GIRONA,Derivados de la benzodiazepina,64,8889005
+GIRONA,Inhibidores de la bomba de protones,64,7871261
+GIRONA,Inhibidores de la HMG CoA reductasa,64,7503353
+GIRONA,Anilidas,64,7267888
+GIRONA,Sense especificar,64,6096467
+LLEIDA,Derivados de la benzodiazepina,61,4644699
+LLEIDA,Inhibidores de la HMG CoA reductasa,61,3462819
+LLEIDA,Anilidas,61,3456671
+LLEIDA,Inhibidores de la bomba de protones,61,3408756
+LLEIDA,"Inhibidores de la ECA, monofarmacos",61,2257847
+PENEDÈS,Derivados de la benzodiazepina,70,805797
+PENEDÈS,Anilidas,70,778306
+PENEDÈS,Inhibidores de la HMG CoA reductasa,70,632660
+PENEDÈS,Inhibidores de la bomba de protones,70,625591
+PENEDÈS,Sense especificar,70,450801
+SENSE ESPECIFICAR,Derivados de la benzodiazepina,1,445508
+SENSE ESPECIFICAR,Inhibidores de la bomba de protones,1,364693
+SENSE ESPECIFICAR,Inhibidores de la HMG CoA reductasa,1,347403
+SENSE ESPECIFICAR,Anilidas,1,304360
+SENSE ESPECIFICAR,Derivados del acido propionico,1,291240
+TERRES DE L'EBRE,Derivados de la benzodiazepina,63,2347666
+TERRES DE L'EBRE,Anilidas,63,2094098
+TERRES DE L'EBRE,Inhibidores de la bomba de protones,63,2057685
+TERRES DE L'EBRE,Inhibidores de la HMG CoA reductasa,63,1934826
+TERRES DE L'EBRE,Sense especificar,63,1571780
