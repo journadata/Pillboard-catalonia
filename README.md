@@ -22,7 +22,7 @@ This project is an interactive data story showcasing prescription drug trends in
 - Collected prescription data for Catalonia (2016–2024) from public health sources  <a href="https://analisi.transparenciacatalunya.cat/Salut/Receptes-facturades-al-Servei-Catal-de-la-Salut/thrd-jj3r/about_data">Catalan Health Service prescription data</a>
 - Analyzed trends in medication use by category, region, gender, and age  
 - Created charts and maps on Datawrapper and embedded them via iframe  
-- Obtain the maps for snaitary regions here <a href="https://salutweb.gencat.cat/ca/departament/estadistiques-sanitaries/cartografia">Health regions of Catalonia </a>
+- Obtain the maps for snaitary regions here <a href="https://analisi.transparenciacatalunya.cat/Salut/Regions-sanit-ries/q2jd-tqye/about_data">Health regions of Catalonia </a>
 - Designed a responsive layout with semantic HTML and custom CSS  
 - Added detailed commentary and context to highlight the story behind the data
 
